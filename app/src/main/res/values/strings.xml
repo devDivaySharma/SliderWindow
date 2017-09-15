@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Slider</string>
+    <string name="slider_railway_title">Railway Tickets</string>
+    <string name="slider_railway_desc">Explore the most attractive deal in railway ticket booking</string>
+    <string name="slider_movie_title">Movie Tickets</string>
+    <string name="slider_movie_desc">Explore the most attractive deal in Movie ticket booking</string>
+    <string name="slider_bus_title">Bus Tickets</string>
+    <string name="slider_bus_desc">Explore the most attractive deal in Bus ticket booking</string>
+    <string name="slider_flight_title">Flight Tickets</string>
+    <string name="slider_flight_desc">Explore the most attractive deal in Flight ticket booking</string>
+    <string name="my_prefrence">com.example.div.slider.MyPref</string>
+    <string name="my_prefrence_key">com.example.div.slider.MyPrefKey</string>
+</resources>
